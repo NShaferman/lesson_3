@@ -37,3 +37,23 @@
 1. Win+R
 2. Внутри прописываете cd и указываете путь до папки
 ![cmd](cmd.PNG)
+
+## Как сменить дирректорию
+### Windows 
+```sh
+cd C:\folder_name
+```
+### MacOs/Linux 
+```sh
+cd C:\folder_name
+```
+
+## Листинг дирректории
+### Windows 
+```sh
+dir
+```
+### MacOs/Linux 
+```sh
+ls
+```
