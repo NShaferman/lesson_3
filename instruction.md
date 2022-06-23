@@ -23,3 +23,23 @@
 ## Web ссылки
 
 Текст [Пример ссылки](https://www.google.ru/ "Всплывающая подсказка")
+
+## Как сменить дирректорию
+### Windows 
+```sh
+cd C:\folder_name
+```
+### MacOs/Linux 
+```sh
+cd C:\folder_name
+```
+
+## Листинг дирректории
+### Windows 
+```sh
+dir
+```
+### MacOs/Linux 
+```sh
+ls
+```
